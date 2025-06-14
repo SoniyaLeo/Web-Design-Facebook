@@ -42,5 +42,36 @@ body{
     background-color:#4267b2;
     color:#fff;
     height:20px;
-    border-color:#29487d
+    border-color:#29487d;
+    cursor:pointer;
 }
+.Submit-button:hover{
+    background: red;
+}
+.left-section{
+    width:50%;
+    float:left;
+}
+.rigft-section{
+    width:50%;
+    float:left;
+}
+/* CSS gradient generator*/
+.main-body{
+    background: linear-gradient(#D3D8E8);
+    width:100%;
+    height:500px;
+}
+.image{
+    width:580px;
+    padding-left: 135px;
+    padding-top:50px;
+
+}
+.para{
+    font-weight:bold;
+    font-size:21px;
+    float:left;
+     padding-left: 135px;
+}
+/* w3schools.cpm*/
